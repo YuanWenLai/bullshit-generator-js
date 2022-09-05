@@ -1,0 +1,30 @@
+{
+  "name": "bullshit-generator-js",
+  "version": "1.0.0",
+  "description": "乱说一通",
+  "main": "dist/index.js",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuanWenLai/bullshit-generator-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuanWenLai/bullshit-generator-js/issues"
+  },
+  "homepage": "https://github.com/YuanWenLai/bullshit-generator-js#readme",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^6.1.3",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "esbuild": "^0.15.7"
+  }
+}
